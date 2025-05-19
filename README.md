@@ -2,6 +2,9 @@
 
  This project is a pixel-perfect replica of the CentralAxis website built with Next.js, TypeScript, and shadcn/ui components.
 
+## Deployment link: [CentralAxis Website Replica](https://centralaxis-ojas.netlify.app/)
+
+
 ## Project Overview
 
 The project replicates the following sections of the CentralAxis website:
