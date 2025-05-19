@@ -4,6 +4,7 @@
 
 ## Deployment link: [CentralAxis Website Replica](https://centralaxis-ojas.netlify.app/)
 
+   - https://centralaxis-ojas.netlify.app/
 
 ## Project Overview
 
